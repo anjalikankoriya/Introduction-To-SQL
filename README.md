@@ -1,4 +1,4 @@
-Introduction to SQL 🚀
+# Introduction to SQL 🚀
 Welcome to the Introduction to SQL repository! Whether you're a beginner or looking to brush up on your SQL skills, this repository is designed to provide you with a solid foundation and beyond.
 
 📚 What You’ll Find Here
