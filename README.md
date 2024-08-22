@@ -8,10 +8,10 @@ Real-World Examples: Explore practical examples and exercises that mirror real-w
 
 Comprehensive Resources: From relational databases to NoSQL, and from simple queries to complex data manipulation—everything you need to become proficient in SQL is right here.
 
-💡 Why This Repository?
+##💡 Why This Repository?
 SQL is the backbone of data management, and mastering it opens up countless opportunities in the tech industry. This repository aims to demystify SQL by breaking down complex topics into digestible sections, making learning efficient and enjoyable.
 
-🌟 How to Use This Repository
+###🌟 How to Use This Repository
 Start with the Basics: Begin with the introductory sections on databases, DBMS, and SQL to build a strong foundation.
 Practice Regularly: Take advantage of the exercises and examples provided to practice your skills.
 Explore Advanced Topics: Once you're comfortable with the basics, delve into more advanced subjects like performance optimization and complex queries.
